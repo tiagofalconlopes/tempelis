@@ -13,13 +13,13 @@ Choose if you'd like to search for a pattern;
 Insert the pattern to be found (this software accepts regex and is case insensitive);
 Type the output file's name (it will be save in your home directory).
 
-#Prerequisites
+# Prerequisites
 Java Runtime Environment 1.8.0_222
 
-#Contributing
+# Contributing
 Contribution are welcome and should be emailed to tiagofalconlopes at gmail . com.
 
-#AUTHORS
+# Authors
 Development:
 Tiago Falcon - Nucleo de Bioinformatica CPE/HCPA
 
@@ -29,5 +29,5 @@ Gerda Cristal Villalba - Nucleo de Bioinformatica CPE/HCPA
 Supervision:
 Ursula Matte - Nucleo de Bioinformatica CPE/HCPA
 
-#SUPPORT
+# Support
 This work was supported by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) through the fellowships to TF (Process number: 156137/2018-6) and UM (Process number: 307038/2015-7)
